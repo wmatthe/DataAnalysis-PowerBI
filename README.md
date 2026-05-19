@@ -1,12 +1,12 @@
 # DataAnalysis-PowerBI
 MS Fabric + Power BI Analysis
 
-# Project Background
+## Project Background
 
-Data Structure Overview
+## Data Structure Overview
 
-Executive Summary
+## Executive Summary
 
-Insights Deep Dive
+## Insights Deep Dive
 
-Recommendations
+## Recommendations
