@@ -1,7 +1,7 @@
 # DataAnalysis-PowerBI
 MS Fabric + Power BI Analysis
 
-Project Background
+# Project Background
 
 Data Structure Overview
 
